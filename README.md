@@ -1,7 +1,7 @@
-# Write Angular components in Elm
+# Write AngularJS components in Elm
 
 This package makes it easy to turn Elm code into Angular directives/components.
-It works just like Evan Czaplicki's [react-elm-components](https://github.com/evancz/react-elm-components).
+It works just like [react-elm-components](https://github.com/cultureamp/react-elm-components).
 
 ## Usage
 
